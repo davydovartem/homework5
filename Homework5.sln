@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework5_task1", "Homework5_task1\Homework5_task1.csproj", "{385FCEC3-C934-4E64-9E10-6A38DEBD808E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework5_task2", "Homework5_task2\Homework5_task2.csproj", "{C74B5679-CDAC-46E3-A217-5CF9DCBFA8A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385FCEC3-C934-4E64-9E10-6A38DEBD808E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385FCEC3-C934-4E64-9E10-6A38DEBD808E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385FCEC3-C934-4E64-9E10-6A38DEBD808E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385FCEC3-C934-4E64-9E10-6A38DEBD808E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74B5679-CDAC-46E3-A217-5CF9DCBFA8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74B5679-CDAC-46E3-A217-5CF9DCBFA8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74B5679-CDAC-46E3-A217-5CF9DCBFA8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74B5679-CDAC-46E3-A217-5CF9DCBFA8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A5D47C-96B1-4630-B82D-4D334EBE4022}
+	EndGlobalSection
+EndGlobal
